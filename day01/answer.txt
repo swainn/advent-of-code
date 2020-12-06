@@ -1,0 +1,4 @@
+Part 1:
+The answer is: 1019571
+Part 2:
+The answer is: 100655544
