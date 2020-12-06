@@ -1,0 +1,4 @@
+Part 1:
+The answer is: 378
+Part 2:
+The answer is: 280
