@@ -1,0 +1,5 @@
+Part 1:
+The answer is: 6878
+Part 2:
+The answer is: 3464
+
