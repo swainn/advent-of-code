@@ -1,0 +1,5 @@
+Part 1:
+The answer is: 1492208709
+Part 2:
+The answer is: 238243506
+
